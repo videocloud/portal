@@ -1,2 +1,2 @@
-portal
+Video Cloud Portal
 ======
